@@ -25,5 +25,10 @@ Rabbit character
 
 ![dsadasdas](https://user-images.githubusercontent.com/44041416/50014964-078fa380-ffce-11e8-90b1-9eaf43c601da.PNG)
 
+Scenes of project
+
+![captureddd](https://user-images.githubusercontent.com/44041416/50021051-85f54100-ffe0-11e8-9da5-c96b42ba1e74.PNG)
+
+![capture455](https://user-images.githubusercontent.com/44041416/50021052-868dd780-ffe0-11e8-9adc-18fddf3066b5.PNG)
 
 
