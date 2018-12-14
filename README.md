@@ -12,8 +12,12 @@ Meh character
 
 Hi-5 character
 
+![sdgsdg](https://user-images.githubusercontent.com/44041416/50015469-538f1800-ffcf-11e8-834e-e867d48ee2b1.PNG)
+
 
 Poo character
+
+![fsfsdf](https://user-images.githubusercontent.com/44041416/50015467-538f1800-ffcf-11e8-804f-d35b95f51c48.PNG)
 
 
 Rabbit character
