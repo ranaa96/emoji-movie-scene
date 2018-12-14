@@ -1,5 +1,6 @@
 # emoji-movie-scene
-computer graphics blender project
+computer graphics blender project 
+emoji characters dancing
 
 ![the_emoji_movie_film_poster](https://user-images.githubusercontent.com/44041416/50014795-9d76fe80-ffcd-11e8-8bf4-82fe5eb138b0.jpg)
 
